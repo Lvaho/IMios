@@ -1,0 +1,35 @@
+/* 
+  InfoPlist.strings
+  WildFireChat
+
+  Created by Heavyrain.lee on 2019/9/16.
+  Copyright © 2019 WildFireChat. All rights reserved.
+*/
+CFBundleName="zhi IM";
+CFBundleDisplayName="zhi IM";
+Message="Message";
+Contact="Contact";
+Discover="Disconver";
+Settings="Settings";
+Chatroom="Chatroom";
+DevDocs="Develope Book";
+Conference="Conference";
+AccountSafety="Account and Safety";
+MessageNotification="Message notification";
+ChangePassword="Change password";
+PrivacySettings="Privacy settings";
+Theme="Theme";
+CurrentVersion="Current version";
+HelpFeedback="Help feedback";
+AboutWFChat="About zhi IM";
+UserAgreement="User agreement";
+PrivacyPolicy="Privacy policy";
+Complain="Complain";
+Blacklist="Black list";
+Logout="Logout";
+Moments="Moments";
+Me="Me";
+Robot="Robot";
+Channel="Channel";
+Favorite="Favorite";
+File="File";
